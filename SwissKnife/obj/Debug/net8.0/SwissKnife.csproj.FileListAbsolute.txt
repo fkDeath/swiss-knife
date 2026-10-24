@@ -1,0 +1,14 @@
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/bin/Debug/net8.0/SwissKnife
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/bin/Debug/net8.0/SwissKnife.deps.json
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/bin/Debug/net8.0/SwissKnife.runtimeconfig.json
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/bin/Debug/net8.0/SwissKnife.dll
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/bin/Debug/net8.0/SwissKnife.pdb
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/SwissKnife.GeneratedMSBuildEditorConfig.editorconfig
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/SwissKnife.AssemblyInfoInputs.cache
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/SwissKnife.AssemblyInfo.cs
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/SwissKnife.csproj.CoreCompileInputs.cache
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/SwissKnife.dll
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/refint/SwissKnife.dll
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/SwissKnife.pdb
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/SwissKnife.genruntimeconfig.cache
+/home/nocode/Documents/Projet-cryptographie/SwissKnife/obj/Debug/net8.0/ref/SwissKnife.dll

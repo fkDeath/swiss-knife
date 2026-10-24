@@ -1,0 +1,8 @@
+# Dossiers de compilation .NET
+!bin/
+!obj/
+*.user
+.vs/
+TestResults/
+
+# Fichiers générés
